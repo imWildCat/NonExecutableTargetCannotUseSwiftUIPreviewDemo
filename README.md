@@ -1,5 +1,7 @@
 # Demo project: SwiftUI Preview cannot be used while selecting the `SharedUI` target
 
+![error message](assets/images/error_message.png)
+
 ## Repro steps
 
 > Environment: macOS Big Sur 11.3 (or 11.2.x), Xcode 12.5 or 12.4.
