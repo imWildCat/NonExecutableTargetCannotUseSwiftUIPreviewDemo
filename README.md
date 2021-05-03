@@ -7,7 +7,7 @@
 > Environment: macOS Big Sur 11.3 (or 11.2.x), Xcode 12.5 or 12.4.
 
 1. Open the workspace
-2. Select the `SharedUI` target (framework)
+2. Select the `SharedUI` target as the *active scheme* (framework)
 3. Open the `WebImage.swift` source file
 4. Run the SwiftUI preview
 
