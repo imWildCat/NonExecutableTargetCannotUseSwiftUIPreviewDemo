@@ -1,0 +1,6 @@
+framework module Pods_NonExecutableTargetCannotUseSwiftUIPreviewDemo {
+  umbrella header "Pods-NonExecutableTargetCannotUseSwiftUIPreviewDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
